@@ -1,0 +1,404 @@
+<mxfile host="app.diagrams.net" modified="2024-02-02T07:05:34.235Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="eNyJsmqqbjZ9p9SlPI_G" version="23.1.1" type="device">
+  <diagram name="Страница — 1" id="wP6SJ1X5OSFiQWKwmrdO">
+    <mxGraphModel dx="4780" dy="2600" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-1" target="Vqu_b_UxoVGh4Q0MeMV1-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-1" value="початок программи&lt;br style=&quot;font-size: 14px;&quot;&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="340" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-2" target="Vqu_b_UxoVGh4Q0MeMV1-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-2" value="ініціалізація змінних N та M, а також sum" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="330" y="180" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-4" target="Vqu_b_UxoVGh4Q0MeMV1-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-4" value="Ввод цих данних" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="340" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-7" target="Vqu_b_UxoVGh4Q0MeMV1-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-7" value="Поки ми в діапозоні від N &lt;br&gt;до M, проходимо &lt;br&gt;по кожному числу" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="280" y="450" width="240" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-9" target="Vqu_b_UxoVGh4Q0MeMV1-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-9" target="Vqu_b_UxoVGh4Q0MeMV1-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-9" value="Чи є число відемне ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="310" y="590" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-11" value="Присваюемо змінній SUM це значення" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="170" y="710" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-13" value="Пропускаемо числ, та переходимо до наступного" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="500" y="710" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-16" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" target="Vqu_b_UxoVGh4Q0MeMV1-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="830" as="sourcePoint" />
+            <mxPoint x="320" y="810" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-17" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="579.47" y="830" as="sourcePoint" />
+            <mxPoint x="579.47" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-18" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="830" as="sourcePoint" />
+            <mxPoint x="580" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-19" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.5" y="890" as="sourcePoint" />
+            <mxPoint x="399.5" y="830" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-20" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="890" as="sourcePoint" />
+            <mxPoint x="400" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-21" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="890" as="sourcePoint" />
+            <mxPoint x="120" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-22" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" target="Vqu_b_UxoVGh4Q0MeMV1-7">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="490" as="sourcePoint" />
+            <mxPoint x="220" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-24" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="489.5" as="sourcePoint" />
+            <mxPoint x="680" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-25" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="680" y="940" as="sourcePoint" />
+            <mxPoint x="680" y="490" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-26" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="940" as="sourcePoint" />
+            <mxPoint x="680" y="940" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-27" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="940" as="sourcePoint" />
+            <mxPoint x="400" y="990" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-28" target="Vqu_b_UxoVGh4Q0MeMV1-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-28" value="Виведення значення змінной SUM" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="280" y="990" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-29" value="Кінець работи програми" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-120" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-121" target="Vqu_b_UxoVGh4Q0MeMV1-123">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-121" value="Початок работи програми" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1340" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-122" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-123" target="Vqu_b_UxoVGh4Q0MeMV1-125">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-123" value="Ініціалізація змінних num [15] (массив на 15-ть элементів) , та fuck" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1480" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-124" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-125" target="Vqu_b_UxoVGh4Q0MeMV1-127">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-125" value="Поки не введемо 15 чисел у массив.&lt;br style=&quot;font-size: 14px;&quot;&gt;&amp;nbsp;i = 0;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="285" y="1600" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-126" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-127" target="Vqu_b_UxoVGh4Q0MeMV1-128">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-127" value="Введення числа" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="340" y="1740" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-128" value="Додавання цього числа до num[i] элементу массива" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="309.41" y="1860" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-129" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="1970" as="sourcePoint" />
+            <mxPoint x="400" y="1920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-130" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1970" as="sourcePoint" />
+            <mxPoint x="400" y="1970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-131" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1970" as="sourcePoint" />
+            <mxPoint x="200" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-132" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" target="Vqu_b_UxoVGh4Q0MeMV1-125">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="200" y="1640" as="sourcePoint" />
+            <mxPoint x="270" y="1570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-133" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="515" y="1639.76" as="sourcePoint" />
+            <mxPoint x="600" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-134" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="2030" as="sourcePoint" />
+            <mxPoint x="600" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-135" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="2030" as="sourcePoint" />
+            <mxPoint x="600" y="2030" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-136" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="2030" as="sourcePoint" />
+            <mxPoint x="400" y="2080" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-137" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-138" target="Vqu_b_UxoVGh4Q0MeMV1-151">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-138" value="Проходимо по кожному элементу массива num.;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="284.41" y="2330" width="230" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-139" value="присваюваемо значення элементу, змінної min" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="145" y="2610" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-140" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="2770" as="sourcePoint" />
+            <mxPoint x="120" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-141" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" target="Vqu_b_UxoVGh4Q0MeMV1-138">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="2370" as="sourcePoint" />
+            <mxPoint x="269.41" y="2300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-142" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="514.41" y="2369.76" as="sourcePoint" />
+            <mxPoint x="650" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-143" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="650" y="2820" as="sourcePoint" />
+            <mxPoint x="650" y="2370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-144" value="" style="endArrow=classic;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.41" y="2820" as="sourcePoint" />
+            <mxPoint x="399.41" y="2870" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-145" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-146" target="Vqu_b_UxoVGh4Q0MeMV1-148">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-146" value="Создаемо змінну min" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="339" y="2080" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-147" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-148" target="Vqu_b_UxoVGh4Q0MeMV1-138">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-148" value="Присваюваемо її значення першого єлементу маассива" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="309.41" y="2210" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-149" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-151" target="Vqu_b_UxoVGh4Q0MeMV1-139">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-150" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-151" target="Vqu_b_UxoVGh4Q0MeMV1-152">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-151" value="num[i] &amp;lt; min ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="309" y="2480" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-152" value="Пропускаемо цей элемент" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="500" y="2610" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-153" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="560" y="2720" as="sourcePoint" />
+            <mxPoint x="560" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-154" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="2720" as="sourcePoint" />
+            <mxPoint x="560" y="2720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-155" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.41000000000003" y="2720" as="sourcePoint" />
+            <mxPoint x="229.41000000000003" y="2670" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-156" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399.41" y="2770" as="sourcePoint" />
+            <mxPoint x="399.41" y="2720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-157" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="2770" as="sourcePoint" />
+            <mxPoint x="400" y="2770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-158" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="400" y="2820" as="sourcePoint" />
+            <mxPoint x="650" y="2820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-159" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="3000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-160" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" source="Vqu_b_UxoVGh4Q0MeMV1-161" target="Vqu_b_UxoVGh4Q0MeMV1-164">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="560" y="3000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-161" value="num[i] &amp;lt; min ?" style="rhombus;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="309" y="2870" width="180" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-162" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="3460" as="sourcePoint" />
+            <mxPoint x="589.79" y="3200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-163" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="3460" as="sourcePoint" />
+            <mxPoint x="590" y="3460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-164" value="Виводимо, що від&#39;емний факторіал не вичислюется" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="500" y="3140" width="180" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-165" value="Поки номер ітераціі менш, ніж значення змінної min" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="125" y="3000" width="210" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-166" value="fuck *= i ;" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="170" y="3140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-167" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230.59000000000003" y="3250" as="sourcePoint" />
+            <mxPoint x="230.59000000000003" y="3200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-168" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="3250" as="sourcePoint" />
+            <mxPoint x="230.59000000000003" y="3250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-169" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="3250" as="sourcePoint" />
+            <mxPoint x="60" y="3040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-170" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1" target="Vqu_b_UxoVGh4Q0MeMV1-165">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="60" y="3040" as="sourcePoint" />
+            <mxPoint x="120" y="3040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-171" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="335" y="3039.5" as="sourcePoint" />
+            <mxPoint x="400" y="3040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-172" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="399" y="3290" as="sourcePoint" />
+            <mxPoint x="398.5" y="3040" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-173" value="" style="endArrow=none;html=1;rounded=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="230" y="3290" as="sourcePoint" />
+            <mxPoint x="400.59000000000003" y="3290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-174" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="230" y="3080" as="sourcePoint" />
+            <mxPoint x="230" y="3140" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-175" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="229.66" y="3290" as="sourcePoint" />
+            <mxPoint x="229.66" y="3350" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-176" value="Виводимо значення факторіалу ( fuck)" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="145" y="3350" width="170" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-177" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="229.50000000000003" y="3460" as="sourcePoint" />
+            <mxPoint x="229.50000000000003" y="3410" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-178" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=14;fontFamily=Courier New;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="398.5" y="3460" as="sourcePoint" />
+            <mxPoint x="398.5" y="3520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Vqu_b_UxoVGh4Q0MeMV1-179" value="Кінець работи програми" style="rounded=1;whiteSpace=wrap;html=1;fontSize=14;fontFamily=Courier New;" vertex="1" parent="1">
+          <mxGeometry x="339" y="3520" width="120" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
